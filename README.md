@@ -1630,3 +1630,4 @@ Signed,
 - fredy taufik ([@zet99](https://github.com/zet99)), Developer, Central Java, Indonesia
 - Piyapol Raengtip ([@OwlFlyFine](https://github.com/OwlFlyFine)), Developer, Mobile & Web Designer
 - Tharindu Dilshan ([@TharinduDilshan](https://github.com/TharinduDilshan)), Software Engineering student, Sri Lanka
+-Kavindi Oshini ([@KavindiOshini](https://github.com/KavindiOshini)), Computer Science student, Sri Lanka
